@@ -1,0 +1,19 @@
+{
+	"autoload": {
+        "files": [
+			"adapters/AlapPont.php",
+			"adapters/Szak.php",
+			"adapters/TobletPont.php",
+			"entities/AlapPontEntity.php",
+			"entities/TobbletPontEntity.php",
+			"interfaces/RequirementsInterface.php",
+			"interfaces/Elte.php",
+			"interfaces/Ppke.php",
+			"models/EredmenyProcessor.php",
+			"models/Validator.php"
+		]
+    },
+   "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}

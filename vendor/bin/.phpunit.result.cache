@@ -1,0 +1,1 @@
+{"version":1,"defects":{"BasicTester::testExampleArray":4,"BasicTester::testStringsMatch":4,"BasicTester::testThatStringsMatch":4},"times":{"BasicTester::testExampleArray":0.089,"BasicTester::testStringsMatch":0.076,"BasicTester::testThatStringsMatch":0.231}}
